@@ -53,7 +53,10 @@ class Main {
     Declare and assign values to any new variables
 
 */
-    int A =
+    int A = 35;
+    int x = 4;
+    double y1 = A/(x+1);
+    System.out.println(y);
 
 /*  
     Challenge 5:
@@ -63,8 +66,10 @@ class Main {
 
 */
  
-
-
+    int A = 35;
+    int x = 4;
+    double y2 = (2x*(x+1)*(-x/2))/A;
+    System.out.println(y2);
 
 
 

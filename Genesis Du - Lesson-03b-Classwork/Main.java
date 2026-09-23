@@ -8,7 +8,7 @@ class Main {
 
   void init(){
    
-    System.out.println("Hello World.");
+    System.out.println("Success is not final, failure is not fatal: it is the courage to continue that counts.");
   }
 
   
