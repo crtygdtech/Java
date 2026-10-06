@@ -26,6 +26,7 @@ class Main {
 		}
 
   void init(){
+	
 	print("Hello, World!");
   }
 
