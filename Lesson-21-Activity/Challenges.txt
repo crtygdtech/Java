@@ -1,14 +1,17 @@
 
 Challenge 1:
-Suppose you are given a choice between getting 5 dollars verse getting a penny on day one that doubles every day.  How many days will it take for the a penny double every day take to get to or surpass $5?
+Suppose you are given a choice between getting 5 dollars verse getting a penny on day one that doubles every day.  
+How many days will it take for the a penny double every day take to get to or surpass $5?
 
 Write a function allowance that solves how many days it takes.
 
 Challenge 2:
-Write a function addTwoNumbers that generates two random integers, then ask the user what is the sum of these two numbers.  Allow the user to keep try until they get it correct.
+Write a function addTwoNumbers that generates two random integers, then ask the user what is the sum of these two 
+numbers.  Allow the user to keep try until they get it correct.
 
 Challenge 3:
-Write a function GCF that accepts two integers, calculates and returns the GCF (greatest common facter) of the two integers.
+Write a function GCF that accepts two integers, calculates and returns the GCF (greatest common facter) of the 
+two integers.
 
 
 Challenge 4:
